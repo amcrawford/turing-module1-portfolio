@@ -9,14 +9,18 @@
 ### End of Module Assessment
 
   Scores to come
-
-## Projects
-
-### Individual
+  
+### Projects
   Mastermind
+  
   Chisel
+  
   Jungle Beats
 
-### Group
+## Team
+
+### Projects
+
   Enigma
+  
   Headcount
