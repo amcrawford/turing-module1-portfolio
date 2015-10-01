@@ -8,26 +8,28 @@ In starting at Turing this module, my main goal was to make sure that I really e
 
 ### End of Module Assessment
 
-Evaluation Notes:
-* Developer is able to comfortably implement solutions using the best-choice tools Ruby has to offer
-* Developer writes code that is easy to follow
-* Developer is able to consistently select and implement the best-choice enumerator methods with blocks
-* Developer consistently takes small steps, using the tests for both design and verification
-* Developer is a master of their tools, efficiently moving between phases of development
-* Developer actively seeks collaboration both before implementing, while in motion, and when stuck
+Ruby Syntax & API - 4
+  Developer is able to comfortably implement solutions using the best-choice tools Ruby has to offer
 
-Evaluation Scores:
-* Ruby Syntax & API - 4
-* Ruby Style - 3
-* Blocks & Enumerations - 4
-* Testing - 4
-* Workflow - 4
-* Collaboration - 4
+Ruby Style - 3
+​ Developer writes code that is easy to follow
+
+Blocks & Enumerations - 4
+  ​Developer is able to consistently select and implement the best-choice enumerator methods with blocks
+
+Testing - 4
+  ​Developer consistently takes small steps, using the tests for both design and verification
+
+Workflow - 4
+​ Developer is a master of their tools, efficiently moving between phases of development
+
+Collaboration - 4
+​ Developer actively seeks collaboration both before implementing, while in motion, and when stuck
 
 
 ### Attendance
 
-I left Turing early on Friday, Sep. 11th, for a flight home to attend a family wedding and also missed our Field Day, Sep. 18th, excursion for a doctor's appointment.
+I did leave early on Friday, Sep. 11th, for a flight home to attend a family wedding and also missed our Field Day, Sep. 18th, excursion for a doctor's appointment.
 
 ### Work
 
@@ -43,10 +45,10 @@ For this project, we mimicked a text-based version of the game Mastermind.
 Evaluation Comments: N/A
 
 Evaluation Score:
-  * Fundamental Ruby and Style - 3
-  * Enumerable & Collections - 3
-  * REPL Interface and Game Functionality - 2
-  * Breaking Logic into Components - 3
+  Fundamental Ruby and Style - 3
+  Enumerable & Collections - 3
+  REPL Interface and Game Functionality - 2
+  Breaking Logic into Components - 3
 
 #### Chisel
 
@@ -61,10 +63,10 @@ Evaluation Comments:
 * no exntensions
 
 Evaluation Score:
-* Fundamental Ruby and Style: 3
-* Test Driven Development: 3
-* Functionality: 3
-* Breaking Logic into Components: 4
+Fundamental Ruby and Style: 3
+Test Driven Development: 3
+Functionality: 3
+Breaking Logic into Components: 4
 
 #### Jungle Beats
 
@@ -79,10 +81,10 @@ Evaluation Comments:
 * no exntensions
 
 Evaluation Score:
-* Fundamental Ruby and Style: 3
-* Test Driven Development: 3
-* Functionality: 3
-* Breaking Logic into Components: 4
+Fundamental Ruby and Style: 3
+Test Driven Development: 3
+Functionality: 3
+Breaking Logic into Components: 4
 
 
 ## Team
@@ -108,9 +110,9 @@ more readable portions.
 * Cracking calculated the key, and was not a brute force approach.
 
 Evaluation Score:
-* Fundamental Ruby and Style: 3
-* Test Driven Development: 3
-* Functionality: 4
+Fundamental Ruby and Style: 3
+Test Driven Development: 3
+Functionality: 4
 
 #### Headcount
 * [GitHub URL](https://github.com/amcrawford/enigma)
@@ -119,12 +121,20 @@ Evaluation Score:
 For this project we created a program which parsed public school enrollment and testing data and analyzed it based on set parameters.
 
 Evaluation Score:
-*
+
+* Overall functionality: 4: *Passes the Test Harness (you'll get this later in the project, to discourage you from using the test harness)*
+* Enumerables: 4
+* Fundamental Ruby - 4: *Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring +1 from influence point*
+* TDD - 3: *Application uses tests to exercise core functionality, but has some gaps in coverage or leaves edge cases untested.*
+* Breaking Logic into Components: 3: *Application has multiple components with defined responsibilities but there is some leaking of responsibilities*
+
 
 
 ## Community
 
 ### Giving Feedback
+
+I try to make a point of reaching out to or working with one of my classmates on every project; while I have not given much formal feedback yet, I think that I have learned a lot and hope that I have been able to give a little back as well.
 
 Here is some feedback that I have sent to my peers:
 
@@ -135,8 +145,6 @@ Nicole Hall: Nicole was great to work with on our enigma project! She was engagi
 
 
 ### Being a Community Member
-
-Here is some of the feedback that I have received from peers:
 
 "Working with Amber has been an absolute joy. She's sharp as a tack and just about as friendly as they come. Whether we paired on a problem or divided work and  came back together to discuss it, Amber was always open to new ideas and taking tangents to experiment with various solutions. Even during stressful moments, she takes time to answer others' questions. I really can't speak more highly of her and I'd welcome the opportunity to work with her again."
 
