@@ -43,10 +43,10 @@ For this project, we mimicked a text-based version of the game Mastermind.
 Evaluation Comments: N/A
 
 Evaluation Score:
-  Fundamental Ruby and Style - 3
-  Enumerable & Collections - 3
-  REPL Interface and Game Functionality - 2
-  Breaking Logic into Components - 3
+  * Fundamental Ruby and Style - 3
+  * Enumerable & Collections - 3
+  * REPL Interface and Game Functionality - 2
+  * Breaking Logic into Components - 3
 
 #### Chisel
 
@@ -61,10 +61,10 @@ Evaluation Comments:
 * no exntensions
 
 Evaluation Score:
-Fundamental Ruby and Style: 3
-Test Driven Development: 3
-Functionality: 3
-Breaking Logic into Components: 4
+* Fundamental Ruby and Style: 3
+* Test Driven Development: 3
+* Functionality: 3
+* Breaking Logic into Components: 4
 
 #### Jungle Beats
 
@@ -79,10 +79,10 @@ Evaluation Comments:
 * no exntensions
 
 Evaluation Score:
-Fundamental Ruby and Style: 3
-Test Driven Development: 3
-Functionality: 3
-Breaking Logic into Components: 4
+* Fundamental Ruby and Style: 3
+* Test Driven Development: 3
+* Functionality: 3
+* Breaking Logic into Components: 4
 
 
 ## Team
@@ -108,9 +108,9 @@ more readable portions.
 * Cracking calculated the key, and was not a brute force approach.
 
 Evaluation Score:
-Fundamental Ruby and Style: 3
-Test Driven Development: 3
-Functionality: 4
+* Fundamental Ruby and Style: 3
+* Test Driven Development: 3
+* Functionality: 4
 
 #### Headcount
 * [GitHub URL](https://github.com/amcrawford/enigma)
@@ -119,7 +119,7 @@ Functionality: 4
 For this project we created a program which parsed public school enrollment and testing data and analyzed it based on set parameters.
 
 Evaluation Score:
-
+*
 
 
 ## Community
